@@ -1,1 +1,3 @@
 # hello-world
+
+Just checking out this github thing to see if it's worth implementing...
